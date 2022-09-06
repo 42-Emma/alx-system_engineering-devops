@@ -1,1 +1,1 @@
-This contains my solutions for tody's project
+This contains various scripts used for ALX SE projects
