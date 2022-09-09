@@ -1,1 +1,1 @@
-This contains various scripts used for ALX SE projects
+C programming language basics
